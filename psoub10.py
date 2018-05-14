@@ -1,4 +1,4 @@
 
 for k in range(0,5):
-    print(k)
+    print(k+1)
 
